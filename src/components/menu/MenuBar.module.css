@@ -1,0 +1,13 @@
+.menucss{
+    background-color: black;
+    /* display: inline-flex; */
+    opacity: 0.6;
+}
+
+.menucssLi {
+    display: inline-block;
+    padding: 12px;
+}
+.Licolor{
+    color: white;
+}
